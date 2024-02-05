@@ -28,13 +28,20 @@ p{
 }
 
 .textBox{
-  background-color: rgb(255, 252, 233);
+  background-color: rgb(211, 119, 70);
   margin: 30px;
   border-radius: 15px;
+  color: #000000;
 }
 
 .text{
   margin: 10px;
+  color: #000000;
+}
+
+.FlexText{
+  display: flex;
+  margin: 3%;
 }
 
 .firstPageText{
